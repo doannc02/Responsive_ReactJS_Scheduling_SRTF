@@ -3,15 +3,28 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "frappe-gantt": "^0.6.1",
+    "gh-pages": "^5.0.0",
+    "google-charts": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-flow-renderer": "^10.3.17",
+    "react-google-charts": "^4.0.0",
+    "react-redux": "^8.0.7",
     "react-scripts": "5.0.1",
+    "reactflow": "^11.7.2",
+    "redux": "^4.2.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://github.com/doannc02/Responsive_ReactApp_Scheduling_CPU_SRTF.git",
   "scripts": {
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -34,5 +47,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "css-loader": "^6.8.1",
+    "node-sass": "^7.0.3",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3"
   }
 }
