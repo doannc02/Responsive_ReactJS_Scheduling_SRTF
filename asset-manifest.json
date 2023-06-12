@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doannc02/Responsive_ReactJS_Scheduling_SRTF/static/css/main.c6d9e1b3.css",
+    "main.js": "/doannc02/Responsive_ReactJS_Scheduling_SRTF/static/js/main.dca29c8f.js",
+    "static/js/787.9f082166.chunk.js": "/doannc02/Responsive_ReactJS_Scheduling_SRTF/static/js/787.9f082166.chunk.js",
+    "index.html": "/doannc02/Responsive_ReactJS_Scheduling_SRTF/index.html",
+    "main.c6d9e1b3.css.map": "/doannc02/Responsive_ReactJS_Scheduling_SRTF/static/css/main.c6d9e1b3.css.map",
+    "main.dca29c8f.js.map": "/doannc02/Responsive_ReactJS_Scheduling_SRTF/static/js/main.dca29c8f.js.map",
+    "787.9f082166.chunk.js.map": "/doannc02/Responsive_ReactJS_Scheduling_SRTF/static/js/787.9f082166.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6d9e1b3.css",
+    "static/js/main.dca29c8f.js"
+  ]
+}
